@@ -14,6 +14,12 @@
 </p>
 
 ---
+## 🚀 Latest Projects
+
+- [🔗 Black-Scholes Estimator App](https://blackscholesestimator.streamlit.app)  
+  *Streamlit web app for option pricing & financial modeling (open source, finance analytics)*
+
+---
 
 ## ✍️ About Me
 
