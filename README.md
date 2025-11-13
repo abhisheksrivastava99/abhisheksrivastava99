@@ -14,8 +14,11 @@
 </p>
 
 ---
-## 🚀 Latest Projects
+##  Latest Projects
 
+- [Bitcoin HD Wallet - Secure Address Generation](https://github.com/abhisheksrivastava99/bitcoin_hd_wallet)
+- [Vehicle Claim Fraud Detection](https://github.com/abhisheksrivastava99/vehicle_claim_fraud_detection)
+- [Credit Card Fraud Detection](https://github.com/abhisheksrivastava99/credit_card_fraud_detection)
 - [🔗 Black-Scholes Estimator App](https://blackscholesestimator.streamlit.app)  
   *Streamlit web app for option pricing & financial modeling (open source, finance analytics)*
 
@@ -25,7 +28,7 @@
 
 - 🎓 Pursuing **FINTECH Masters** at [NTU Singapore](https://www.ntu.edu.sg/)
 - 🧑‍💻 Machine Learning, Time Series Analysis & Financial Modeling
-- 🌱 Actively learning **FastAPI**, advanced ML & digital currencies
+- 🌱 Actively learning **FastAPI**, advanced ML & digital currencies(blockchain)
 - 📝 Regular technical blogger and portfolio coder | [Blog Link](https://medium.com/@abhisheksrivastavacapncook) | [GitHub Pages](https://abhisheksrivastava99.github.io/)
 - 💡 Exploring fintech trends: CBDC, De-dollarization, digital currencies in Asia
 
