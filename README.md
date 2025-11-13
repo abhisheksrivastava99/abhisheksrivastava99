@@ -19,7 +19,7 @@
 - [Bitcoin HD Wallet - Secure Address Generation](https://github.com/abhisheksrivastava99/bitcoin_hd_wallet)
 - [Vehicle Claim Fraud Detection](https://github.com/abhisheksrivastava99/vehicle_claim_fraud_detection)
 - [Credit Card Fraud Detection](https://github.com/abhisheksrivastava99/credit_card_fraud_detection)
-- [🔗 Black-Scholes Estimator App](https://blackscholesestimator.streamlit.app)  
+- [Black-Scholes Estimator App](https://blackscholesestimator.streamlit.app)  
   *Streamlit web app for option pricing & financial modeling (open source, finance analytics)*
 
 ---
