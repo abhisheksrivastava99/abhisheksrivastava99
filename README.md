@@ -69,13 +69,14 @@
 | PyTorch              | ⭐️⭐️⭐️        |
 | Machine Learning     | ⭐️⭐️⭐️⭐️      |
 | Neural Networks      | ⭐️⭐️⭐️⭐️      |
+| Golang               | ⭐️⭐️         |
 ---
 
 ## 📫 How to reach me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheksrivastava99)
 - [![Personal Website](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=github)](https://abhisheksrivastava99.github.io/)
-- 📧 abhisheksrivastavacapncook [at] gmail [dot] com
+- 📧 abhisheksrivastavacapncook@gmail.com
 
 ---
 
@@ -89,5 +90,5 @@
 </details>
 
 <p align="center">
-  🚀 <i>“Let's connect, collaborate, and build the future of fintech together!”</i> 🚀
+   <i>“Let's connect, collaborate, and build the future of fintech together!”</i> 🚀
 </p>
